@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Sep 15 14:45:20 2024
+# Process ID: 19616
+# Current directory: E:/Verilog/Self/ALU_8bit/ALU_8bit.runs/synth_1
+# Command line: vivado.exe -log ALU_8bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU_8bit.tcl
+# Log file: E:/Verilog/Self/ALU_8bit/ALU_8bit.runs/synth_1/ALU_8bit.vds
+# Journal file: E:/Verilog/Self/ALU_8bit/ALU_8bit.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-43982PT
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 5 5625U with Radeon Graphics         
+# CPU Frequency     :2296 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16475 MB
+# Swap memory       :2550 MB
+# Total Virtual     :19025 MB
+# Available Virtual :5757 MB
+#-----------------------------------------------------------
+source ALU_8bit.tcl -notrace
